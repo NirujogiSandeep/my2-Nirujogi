@@ -14,5 +14,15 @@
 * sweets
 
   [Link to Mystats](MyStats.md)
+  
 
+---
+# SPORTS
+The below table describes about various games that I recommend others to play:
+| SPORT NAME   | REASON                   | Hours |
+| ---          | ---                      | ---:  | 
+|    Cricket   |collective skills         | 10    |
+|  foot ball   | fun game                 | 12    |
+|weight lifting| enhances physical stamina| 7     |
+| volleyball   | Builds Coordination      |  6    |
 
