@@ -13,14 +13,14 @@
 * local fruits
 * sweets
 
-  [Link to Mystats](MyStats.md)
+[Link to Mystats](MyStats.md)
   
-
 ---
-# SPORTS
-The below table describes about various games that I recommend others to play:
+
+# List Of Recommended Sports
+The below table describes about various games that I recommend others to play.It includes three columns. The first column should be the name of a sport.The second column should be the reason why you recommend it. The third column is how many hours in an average week that you would spend participating in the sport.
 | SPORT NAME   | REASON                   | Hours |
-| ---          | ---                      | ---:  | 
+| :---         | :---                     | :---  | 
 |    Cricket   |collective skills         | 10    |
 |  foot ball   | fun game                 | 12    |
 |weight lifting| enhances physical stamina| 7     |
