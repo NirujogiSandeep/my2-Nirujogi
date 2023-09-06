@@ -8,9 +8,9 @@
 2. capture images
 3. exploring new places
 # List of dishes of food that you can get at your vacation spot :
-Roti and paneer ButterMasala
-Maggie
-local fruits
-sweets
+* Roti and paneer ButterMasala
+* Maggie
+* local fruits
+* sweets
 
 
