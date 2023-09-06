@@ -12,11 +12,8 @@
 * Maggie
 * local fruits
 * sweets
-
 [Link to Mystats](MyStats.md)
-  
 ---
-
 # List Of Recommended Sports
 The below table describes about various games that I recommend others to play.It includes three columns. The first column should be the name of a sport.The second column should be the reason why you recommend it. The third column is how many hours in an average week that you would spend participating in the sport.
 | SPORT NAME   | REASON                   | Hours |
@@ -25,4 +22,14 @@ The below table describes about various games that I recommend others to play.It
 |  foot ball   | fun game                 | 12    |
 |weight lifting| enhances physical stamina| 7     |
 | volleyball   | Builds Coordination      |  6    |
+---
+# 2 quotes scientists that I like:
+_A.P.J Abdul Kalam_
+>If you want to shine like a sun, first burn like a sun.
+
+_Albert Einstein_
+>The important thing is not to stop questioning.
+
+
+
 
