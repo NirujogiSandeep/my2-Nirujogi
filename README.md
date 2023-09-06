@@ -13,4 +13,6 @@
 * local fruits
 * sweets
 
+  [Link to Mystats](MyStats.md)
+
 
