@@ -11,7 +11,7 @@
 * Roti and paneer ButterMasala
 * Maggie
 * local fruits
-* sweets
+* sweets<br>
 [Link to Mystats](MyStats.md)
 ---
 # List Of Recommended Sports
