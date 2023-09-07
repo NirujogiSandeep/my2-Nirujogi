@@ -33,7 +33,7 @@ _Albert Einstein_
 # Code Fencing
 [PHP Stack Overflow](https://stackoverflow.com/questions/77055430/failing-to-format-my-date-to-work-correctly-in-php)
 
-[PHP CSS Tricks](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
+
 ```
 <?php 
   
@@ -48,6 +48,6 @@ echo startsWith("dog", "x"); // false
 
 ?> 
 ```
-
+[PHP CSS Tricks](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
 
 
